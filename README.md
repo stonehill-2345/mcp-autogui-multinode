@@ -4,7 +4,11 @@
 <a href="./"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"></a>
 </p>
 
+[English](./README.md)|[中文](./README_zh.md)  
+
 ### About
+
+
 
 An MCP and HTTP server wrapper for PyAutoGUI, enabling LLMs to control your mouse and keyboard.
 
@@ -87,8 +91,8 @@ graph LR
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd computer-use-mcp
+git clone https://github.com/stonehill-2345/mcp-autogui-multinode.git
+cd mcp-autogui-multinode
 ```
 
 2. Install dependencies based on your deployment scenario:
